@@ -10,7 +10,7 @@
 </p>
 
 ### 📋 Skills 📋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moriyoshi-kasuga)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=moriyoshi-kasuga
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=moriyoshi-kasuga&theme=onedark&show_icons=ture" />
 </p>
