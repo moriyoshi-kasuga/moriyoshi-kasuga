@@ -18,4 +18,4 @@ I'm working on something right now.
 [![trophy](https://github-profile-trophy.vercel.app/?username=moriyoshi-kasuga&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moriyoshi-kasuga&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moriyoshi-kasuga&theme=onedark)](https://git.io/streak-stats)
