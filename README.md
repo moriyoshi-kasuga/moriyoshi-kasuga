@@ -5,6 +5,36 @@
 - I would like to become a full-stack engineer in the future.
 - Read more about me at [portfolio](https://moriyoshi-kasuga.github.io)
 
+## 💻 Favorite Stack 💻
+
+### Development Environment (OS and Tools)
+
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <span>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=apple,wsl,ubuntu,arch"
+      alt="OS"
+    />
+  </span>
+  <span>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nix,bash,vim,neovim,lazyvim,lua,tmux,catppuccin"
+      alt="Tools"
+    />
+  </span>
+</p>
+
+### Current Tech Stack
+
+<p align="center">
+  <span>
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,rust,tauri,ts,bun,tailwindcss,astro,svelte"
+      alt="Current Tech Stack"
+    />
+  </span>
+</p>
+
 ## 🌱 Learning 🌱
 
 - The language I currently most enjoy writing is Rust. (following is my crates)
