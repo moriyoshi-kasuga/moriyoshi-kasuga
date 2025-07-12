@@ -9,17 +9,11 @@
 
 ### Development Environment (OS and Tools)
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+<p align="center">
   <span>
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=apple,wsl,ubuntu,arch"
-      alt="OS"
-    />
-  </span>
-  <span>
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=nix,bash,vim,neovim,lazyvim,lua,tmux,catppuccin"
-      alt="Tools"
+      src="https://go-skill-icons.vercel.app/api/icons?i=apple,wsl,ubuntu,arch,space,nix,bash,vim,neovim,lazyvim,lua,tmux,catppuccin"
+      alt="OS and Tools"
     />
   </span>
 </p>
