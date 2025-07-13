@@ -9,24 +9,27 @@
 
 ### Development Environment (OS and Tools)
 
-<p align="center">
-  <span>
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=apple,wsl,ubuntu,arch,space,nix,bash,vim,neovim,lazyvim,lua,tmux,catppuccin"
-      alt="OS and Tools"
-    />
-  </span>
+<p>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=apple,wsl,ubuntu,arch"
+    alt="OS"
+  />
+</p>
+<!-- FIXME: if merged https://github.com/LelouchFR/skill-icons/pull/532 -->
+<p>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=nix,cattpuccin,bash,vim,neovim,lazyvim,lua,tmux"
+    alt="Tools"
+  />
 </p>
 
 ### Current Tech Stack
 
-<p align="center">
-  <span>
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,rust,tauri,ts,bun,tailwindcss,astro,svelte"
-      alt="Current Tech Stack"
-    />
-  </span>
+<p>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,ts,bun,tailwindcss,astro,svelte"
+    alt="Current Tech Stack"
+  />
 </p>
 
 ## 🌱 Learning 🌱
