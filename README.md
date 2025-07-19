@@ -1,9 +1,9 @@
-# Hi there 👋
+# 👋 Hi, I'm Mori!
 
-- My nickname is `mori`.
-- I am currently a student programmer
-- I would like to become a full-stack engineer in the future.
-- Read more about me at [portfolio](https://moriyoshi-kasuga.github.io)
+- 🧑‍💻 Student programmer passionate about learning and building things
+- 🌱 Aspiring full-stack engineer
+- ⚙️ Curious about development environments? Check out my [dotfiles](https://github.com/moriyoshi-kasuga/dotfiles)
+- 📝 Want to know more about me? Visit my [portfolio](https://moriyoshi-kasuga.github.io)
 
 ## 💻 Favorite Stack 💻
 
