@@ -1,0 +1,11 @@
+[files]
+ignore-hidden = true
+ignore-vcs = true
+
+[default]
+check-filename = true
+check-file = true
+locale = "en-us"
+
+[default.extend-words]
+improvie = "improvie"
