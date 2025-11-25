@@ -22,12 +22,12 @@
   />
 </p>
 
-### Current Tech Stack
+### Technologies I Love & Use
 
 <p>
   <img
     src="https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,ts,bun,tailwindcss,astro,svelte"
-    alt="Current Tech Stack"
+    alt="Technologies I Love & Use"
   />
 </p>
 
