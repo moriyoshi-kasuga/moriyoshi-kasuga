@@ -2,7 +2,6 @@
 
 - 🧑‍💻 Student programmer passionate about learning and building things
 - 🌱 Aspiring full-stack engineer
-- 🚀 I'm currently building [improvie](https://github.com/improvie/improvie) as a personal project.
 - ⚙️ Curious about development environments? Check out my [dotfiles](https://github.com/moriyoshi-kasuga/dotfiles)
 - 📝 Want to know more about me? Visit my [portfolio](https://moriyoshi-kasuga.github.io)
 
@@ -12,7 +11,7 @@
 
 <p>
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=apple,wsl,ubuntu,arch"
+    src="https://go-skill-icons.vercel.app/api/icons?i=apple,nixos"
     alt="OS"
   />
 </p>
