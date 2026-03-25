@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mori!
 
-- 🧑‍💻 Student programmer passionate about learning and building things
-- 🌱 Aspiring full-stack engineer
+- 🧑‍💻 Programmer passionate about learning and building things
 - ⚙️ Curious about development environments? Check out my [dotfiles](https://github.com/moriyoshi-kasuga/dotfiles)
 - 📝 Want to know more about me? Visit my [portfolio](https://moriyoshi-kasuga.github.io)
 
