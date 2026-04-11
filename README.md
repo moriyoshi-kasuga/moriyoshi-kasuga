@@ -16,7 +16,7 @@
 </p>
 <p>
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=nix,catppuccin,bash,vim,neovim,lazyvim,lua,tmux"
+    src="https://go-skill-icons.vercel.app/api/icons?i=nix,catppuccin,bash,vim,neovim,lua,tmux"
     alt="Tools"
   />
 </p>
