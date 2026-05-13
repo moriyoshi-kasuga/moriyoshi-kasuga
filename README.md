@@ -6,26 +6,22 @@
 
 ## 💻 Favorite Stack 💻
 
-### Development Environment (OS and Tools)
+### Development Environment (OS and Love Tools)
 
-<p>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=apple,nixos"
-    alt="OS"
-  />
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos,apple,catppuccin,wezterm,tmux,neovim" />
+  </a>
 </p>
-<p>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=nix,catppuccin,bash,vim,neovim,lua,tmux"
-    alt="Tools"
-  />
-</p>
+
+- **WM/Compositor**: [Niri](https://github.com/niri-wm/niri) (Scrolling Compositor)
+- **Shell UI**: [Noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 
 ### Technologies I Love & Use
 
 <p>
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,ts,bun,tailwindcss,astro,svelte"
+    src="https://go-skill-icons.vercel.app/api/icons?i=rust,scala,ts,bun,tailwindcss,astro,svelte"
     alt="Technologies I Love & Use"
   />
 </p>
