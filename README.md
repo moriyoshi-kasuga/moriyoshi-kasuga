@@ -21,7 +21,7 @@
 
 <p>
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=rust,scala,ts,bun,tailwindcss,astro,svelte"
+    src="https://go-skill-icons.vercel.app/api/icons?i=rust,scala,ts,deno,tailwindcss,astro,svelte"
     alt="Technologies I Love & Use"
   />
 </p>
