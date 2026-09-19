@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mori!
 
 - 🧑‍💻 Programmer passionate about learning and building things
-- ⚙️ Curious about development environments? Check out my [dotfiles](https://github.com/moriyoshi-kasuga/dotfiles)
+- ⚙️ My [dotfiles](https://github.com/moriyoshi-kasuga/dotfiles) manage NixOS/macOS with Nix Flakes + Home Manager, using the [dendritic pattern](https://github.com/mightyiam/dendritic) for a fully modular flake-parts setup
 - 📝 Want to know more about me? Visit my [portfolio](https://moriyoshi-kasuga.github.io)
 
 ## 💻 Favorite Stack 💻
@@ -30,7 +30,6 @@
 
 - The language I currently most enjoy writing is Rust. (following is my crates)
   - [enum-table](https://github.com/moriyoshi-kasuga/enum-table) - A crate that provides a fast and type-safe alternative to HashMap for enum keys.
-  - [more-convert](https://github.com/moriyoshi-kasuga/more-convert) - A crate that provides additional conversion.
 
 ## 📋 My Graph 📋
 
